@@ -1,5 +1,5 @@
-def reverse_each_word(sent) 
-  
+def reverse_each_word(word) 
+  word.split
   
   
 end
